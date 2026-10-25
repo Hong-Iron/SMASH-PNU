@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "효원문화회관": {
+      "style": "glass",
+      "wall": "#e6e6e2",
+      "glass": "#2f5a6b",
+      "frame": "#cfd2d2"
+    },
+    "통합기계관": {
+      "style": "glass",
+      "wall": "#b9bcbf",
+      "glass": "#5f86b5",
+      "frame": "#9ea3a8"
+    },
+    "학생회관": {
+      "style": "stone",
+      "wall": "#e9eef0",
+      "glass": "#3c4f5e",
+      "frame": "#2b9ad0"
+    },
+    "건설관": {
+      "style": "glass",
+      "wall": "#d9dfe2",
+      "glass": "#3f8fae",
+      "frame": "#8fa3ad"
+    },
+    "경암체육관": {
+      "style": "glass",
+      "wall": "#eef0f0",
+      "glass": "#2f63b8",
+      "frame": "#c6ccd2"
+    },
+    "새벽벌도서관(제2도서관)": {
+      "style": "tan",
+      "wall": "#c9b9a8",
+      "glass": "#4a5560",
+      "frame": "#f0efe9"
+    },
+    "중앙도서관 (제1도서관)": {
+      "style": "stone",
+      "wall": "#d8d6d0",
+      "glass": "#3a3f46",
+      "frame": "#8a5a48"
+    },
+    "사회관": {
+      "style": "ribbon",
+      "wall": "#dcdcd8",
+      "glass": "#3c4a58",
+      "frame": "#b9bcbc"
+    },
+    "제2공학관": {
+      "style": "ribbon",
+      "wall": "#e8e8e4",
+      "glass": "#2f3a46",
+      "frame": "#c9cbcb"
+    },
+    "웅비관": {
+      "style": "dorm",
+      "wall": "#d7d9d8",
+      "glass": "#4a5a66",
+      "frame": "#e8e8e6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
